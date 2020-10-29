@@ -2,7 +2,7 @@ body {
     background-color: black;
 }
 .awssld {
-    --slider-transition-duration: 100ms !important;
+    --slider-transition-duration: 200ms !important;
 }
 
 .awssld.awssld--organic-arrows{
