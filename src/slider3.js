@@ -2,6 +2,7 @@ import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 import addData from "./components/addData";
 import './style/slider.css'
+// import img1 from './assets/halloween.jpg'
 import img1 from './assets/1.jpg'
 import img2 from './assets/2.jpg'
 import img3 from './assets/3.jpg'
