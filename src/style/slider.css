@@ -3,6 +3,10 @@ body {
 }
 .awssld {
     --slider-transition-duration: 200ms !important;
+    --organic-arrow-thickness: 6px;
+    --organic-arrow-border-radius: 30px;
+    --organic-arrow-height: 20px;
+    --control-button-width: 2%;
 }
 
 .awssld.awssld--organic-arrows{
@@ -10,6 +14,9 @@ body {
     margin-top: 50px;
     width: 1200px;
     height:700px;
+}
+.awssld__bullets button{
+    padding: 0 8px !important;
 }
 
 .threeColumns {
@@ -40,7 +47,10 @@ body {
 
 .react-json-view {
     width: 100%;
-    flex: auto
+    height: calc(100% - 90px);
+    flex: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
 .img{
     flex: 50%;
