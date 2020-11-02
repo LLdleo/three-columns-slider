@@ -12,8 +12,8 @@ body {
 .awssld.awssld--organic-arrows{
     margin: auto;
     margin-top: 50px;
-    width: 1200px;
-    height:700px;
+    width: 90%;
+    height: 800px;
 }
 .awssld__bullets button{
     padding: 0 8px !important;
@@ -29,6 +29,7 @@ body {
 
 .metadata{
     flex: 25%;
+    width: 25%;
     height: calc(100% - 40px);
     background-color: white;
     display: flex;
@@ -54,6 +55,7 @@ body {
 }
 .img{
     flex: 50%;
+    width: 50%;
     background-color: black;
     display: flex;
     flex-direction: column;
@@ -68,6 +70,7 @@ body {
 }
 .plot{
     flex: 25%;
+    width: 25%;
     height: calc(100% - 40px);
     padding: 20px;
     background-color: white;

@@ -17,10 +17,10 @@ export default class Line extends React.Component{
   //   // theme setting in willMounted
   //   echarts.registerTheme('Imooc',echartTheme);
   // }
-  getOption =()=> {
+  getOption1 =(expName)=> {
     let option = {
       title:{
-        text:'Plot of Something',
+        text:'Plot of Scribe Rating of'+{expName},
         x:'center',
         y:'top'
       },
@@ -28,16 +28,56 @@ export default class Line extends React.Component{
         trigger:'axis',
       },
       xAxis:{
-        data:['Mon','Tue','Wed','Thu','Fri','Sat','Sun']
+        name:'date',
+        data:['2018-08-29','2018-12-11','2019-03-05']
       },
       yAxis:{
+        name:'Scribe Rating',
         type:'value'
       },
       series:[
         {
-          name:'Some Thing',
-          type:'line',   //这块要定义type类型，柱形图是bar,饼图是pie
-          data:[100,200,150,300,200,120,80]
+          type:'line',
+          data:[9,8,7],
+          lineStyle: {
+            normal: {
+                width: 3,
+                color: "#b3875b" 
+            }
+          },
+        }
+      ]
+    }
+    return option
+  }
+  getOption2 =(expName)=> {
+    let option = {
+      title:{
+        text:'Plot of Blister Rating of'+{expName},
+        x:'center',
+        y:'top'
+      },
+      tooltip:{
+        trigger:'axis',
+      },
+      xAxis:{
+        name:'date',
+        data:['2018-08-29','2018-12-11','2019-03-05']
+      },
+      yAxis:{
+        name:'Blister Rating',
+        type:'value'
+      },
+      series:[
+        {
+          type:'line',
+          data:[10,10,10],
+          lineStyle: {
+            normal: {
+                width: 3,
+                color: "#81a862"
+            }
+          },
         }
       ]
     }
@@ -48,10 +88,10 @@ export default class Line extends React.Component{
     return(
       <div>
         <div>
-          <ReactEcharts option={this.getOption()} style={{height:'300px'}}/>
+          <ReactEcharts option={this.getOption1(this.expName)} style={{height:'300px'}}/>
         </div>
         <div>
-          <ReactEcharts option={this.getOption()} style={{height:'300px'}}/>
+          <ReactEcharts option={this.getOption2(this.expName)} style={{height:'300px'}}/>
         </div>
       </div>
 

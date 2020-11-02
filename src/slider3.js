@@ -2,6 +2,7 @@ import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 import addData from "./components/addData";
 import './style/slider.css'
+// import origin from './components/customNavigator'
 // import img1 from './assets/halloween.jpg'
 import img1 from './assets/1.jpg'
 import img2 from './assets/2.jpg'
@@ -9,6 +10,7 @@ import img3 from './assets/3.jpg'
 import img4 from './assets/4.jpg'
 import img5 from './assets/5.jpg'
 import img6 from './assets/6.jpg'
+// import originNavigator from './components/originalNavigator';
 
 let metadata = {
   "frame_id": "B1CF2B1B-1EB5-4AAD-A8A5-86712E8C1569-2015-02-28-00:00:00.000",
