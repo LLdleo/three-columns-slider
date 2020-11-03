@@ -6,6 +6,7 @@ import React from 'react';
 import echarts from 'echarts/lib/echarts'
 // using line char
 import 'echarts/lib/chart/line';  // pie, bar as well
+import 'echarts/lib/chart/scatter';  // pie, bar as well
 import 'echarts/lib/component/tooltip';
 import 'echarts/lib/component/title';
 import 'echarts/lib/component/legend';
@@ -20,12 +21,12 @@ export default class Line extends React.Component{
   getOption1 =(expName)=> {
     let option = {
       title:{
-        text:'Plot of Scribe Rating of'+{expName},
+        text:'Scribe Rating Plot of '+expName,
         x:'center',
         y:'top'
       },
       tooltip:{
-        trigger:'axis',
+        trigger:'item',
       },
       xAxis:{
         name:'date',
@@ -42,9 +43,17 @@ export default class Line extends React.Component{
           lineStyle: {
             normal: {
                 width: 3,
-                color: "#b3875b" 
+                color: "#b3875b"
             }
           },
+        },
+        {
+          type:'scatter',
+          data:[null,8,null],
+          label:{show:false},
+          itemStyle: {
+            color: "#82664a"
+          }
         }
       ]
     }
@@ -53,12 +62,12 @@ export default class Line extends React.Component{
   getOption2 =(expName)=> {
     let option = {
       title:{
-        text:'Plot of Blister Rating of'+{expName},
+        text:'Blister Rating Plot of '+expName,
         x:'center',
         y:'top'
       },
       tooltip:{
-        trigger:'axis',
+        trigger:'item',
       },
       xAxis:{
         name:'date',
@@ -78,6 +87,14 @@ export default class Line extends React.Component{
                 color: "#81a862"
             }
           },
+        },
+        {
+          type:'scatter',
+          data:[null,10,null],
+          label:{show:false},
+          itemStyle: {
+            color: "#5f7b49"
+          }
         }
       ]
     }
@@ -88,10 +105,10 @@ export default class Line extends React.Component{
     return(
       <div>
         <div>
-          <ReactEcharts option={this.getOption1(this.expName)} style={{height:'300px'}}/>
+          <ReactEcharts option={this.getOption1(this.props.expName)} style={{height:'300px'}}/>
         </div>
         <div>
-          <ReactEcharts option={this.getOption2(this.expName)} style={{height:'300px'}}/>
+          <ReactEcharts option={this.getOption2(this.props.expName)} style={{height:'300px'}}/>
         </div>
       </div>
 

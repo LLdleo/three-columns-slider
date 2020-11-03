@@ -56,7 +56,7 @@ body {
 .img{
     flex: 50%;
     width: 50%;
-    background-color: black;
+    background-color: #8c8c8c;
     display: flex;
     flex-direction: column;
 }
