@@ -1,6 +1,15 @@
 body {
     background-color: black;
 }
+#root {
+    width: 100%;
+    height: 100%;
+}
+.sliderContainer {
+    padding: 50px;
+    width: calc(100% - 100px);
+    height: calc(100% - 100px);
+}
 .awssld {
     --slider-transition-duration: 200ms !important;
     --organic-arrow-thickness: 6px;
@@ -10,13 +19,12 @@ body {
 }
 
 .awssld.awssld--organic-arrows{
-    margin: auto;
-    margin-top: 50px;
-    width: 90%;
-    height: 800px;
+    width: 100%;
+    height: calc(100% - 80px);
 }
 .awssld__bullets button{
     padding: 0 8px !important;
+    display: none;
 }
 
 .threeColumns {
@@ -75,4 +83,28 @@ body {
     padding: 20px;
     background-color: white;
     color: black;
+}
+.navRow {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    z-index: 100000;
+    width: 100%;
+}
+
+.navArrow {
+    font-size: 30px;
+    line-height: 40px;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.navInput {
+    height: 30px;
+    font-size: 20px;
+    line-height: 30px;
+    width: 80px;
+    text-align: center;
 }

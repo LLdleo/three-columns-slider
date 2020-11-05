@@ -1,10 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-// import slider from "./components/slider2";
-import Slider from "./slider3";
+import Slider from "./components/threeColumnSlider";
 
 ReactDOM.render(
   <React.StrictMode>

@@ -1,16 +1,16 @@
 import React from 'react';
 import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
-import addData from "./components/addData";
-import './style/slider.css'
+import addData from "./addData";
+import '../style/slider.css'
 // import origin from './components/customNavigator'
 // import img1 from './assets/halloween.jpg'
-import img1 from './assets/1.jpg'
-import img2 from './assets/2.jpg'
-import img3 from './assets/3.jpg'
-import img4 from './assets/4.jpg'
-import img5 from './assets/5.jpg'
-import img6 from './assets/6.jpg'
+import img1 from '../assets/1.jpg'
+import img2 from '../assets/2.jpg'
+import img3 from '../assets/3.jpg'
+import img4 from '../assets/4.jpg'
+import img5 from '../assets/5.jpg'
+import img6 from '../assets/6.jpg'
 // import originNavigator from './components/originalNavigator';
 // import customBullets from './components/customNavigator'
 
@@ -356,57 +356,92 @@ var data = [
 export default class Slider extends React.Component{
   constructor() {
     super();
-    this.state = { lastPressedKey: null , currentPage: 0};
-    this.totalPage = 0;
+    this.state = { lastPressedKey: null , currentPage: 0, totalPage: 0};
     this.handleChange = this.handleChange.bind(this)
   }
 
   componentDidMount() {
     window.addEventListener("keyup", this.handleKeyPress);
-    this.totalPage = document.getElementsByClassName('awssld__bullets')[0].childNodes.length;
+    this.setState({
+      totalPage: document.getElementsByClassName('awssld__bullets')[0].childNodes.length
+    })
+    var pageInput = document.getElementById('pageInput')
+    pageInput.addEventListener('keyup', this.handleInput);
   }
 
   componentDidUpdate(prevProps, prevState, snapshot) {
-    const cp = document.getElementsByClassName('awssld__bullets--active')[0]
-    if (cp.innerHTML!==this.state.currentPage){
-      this.setState({
-        currentPage: cp.innerHTML
-      })
-      console.log(cp.innerHTML)
-    }
+    // const cp = document.getElementsByClassName('awssld__bullets--active')[0]
+    // if (cp.innerHTML!==prevState.currentPage){
+    //   this.setCurrentPage(cp.innerHTML)
+    // }
   }
 
   componentWillUnmount() {
     window.removeEventListener("keyup", this.handleKeyPress);
-    window.removeEventListener("click", this.handleClick);
   }
 
   handleKeyPress = event => {
-    this.setState({ lastPressedKey: event.key });
     if (event.key==='ArrowRight'){
+      this.setCurrentPage(this.getCurrentPage())
       this.goNext()
     } else if (event.key==='ArrowLeft') {
+      this.setCurrentPage(this.getCurrentPage())
       this.goPrev()
     }
   }
-  goNext() {
+  handleInput = event => {
+    if (event.key==='Enter') {
+      var pageInput = document.getElementById('pageInput')
+      var pageInputVal = pageInput.value
+      if (pageInputVal >= this.state.totalPage) {
+        pageInputVal = this.state.totalPage - 1
+        pageInput.value = pageInputVal
+      }
+      var newPageBtn = this.getElementByAttr('button', 'data-index', pageInputVal)
+      this.setCurrentPage(pageInputVal)
+      newPageBtn.click()
+    }
+  }
+  getElementByAttr(tag,attr,value) {
+    var aElements=document.getElementsByTagName(tag);
+    for(var i=0;i<aElements.length;i++)
+    {
+      if(aElements[i].getAttribute(attr)==value) {
+        return aElements[i]
+      }
+    }
+  }
+  goNext = () => {
     const nextBtn = document.getElementsByClassName("awssld__next")[0]
     nextBtn.click()
+    this.setCurrentPage(this.state.currentPage+1)
   }
-  goPrev() {
+  goPrev = () => {
     const prevBtn = document.getElementsByClassName("awssld__prev")[0]
+    this.setCurrentPage(this.state.currentPage-1)
     prevBtn.click()
   }
-  getCurrentPage = () => {
+  getCurrentPage() {
     const cp = document.getElementsByClassName('awssld__bullets--active')[0]
+    return parseInt(cp.getAttribute('data-index'))
+  }
+  setCurrentPage = (_number) => {
+    if (_number >= this.state.totalPage) {
+      _number = 0
+    }
+    else if (_number < 0) {
+      _number = this.state.totalPage - 1
+    }
     this.setState({
-      currentPage: cp.innerHTML
+      currentPage: _number
     })
   }
-  handleChange (e) {
+  handleChange = event => {
+    console.log(event)
     this.setState({
-      currentPage: e.target.value
+      currentPage: event.target.value
     })
+    console.log(this.state.currentPage)
   }
   render(){
     var as = (
@@ -416,12 +451,12 @@ export default class Slider extends React.Component{
       </AwesomeSlider>
     )
     return (
-      <div>
+      <div className="sliderContainer">
         {as}
-        <div>
-          <div onClick={this.goPrev}>←</div>
-          <input value={this.state.currentPage} onChange={this.handleChange}/>
-          <div onClick={this.goNext}>→</div>
+        <div className="navRow">
+          <div className="navArrow" onClick={this.goPrev}>←</div>
+          <input className="navInput" id="pageInput" type="number" min={0} max={this.state.totalPage-1} placeholder={this.state.currentPage} onChange={this.handleChange}/>
+          <div className="navArrow" onClick={this.goNext}>→</div>
         </div>
       </div>
     )
