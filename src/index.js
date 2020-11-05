@@ -4,12 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 // import slider from "./components/slider2";
-import slider from "./slider3";
+import Slider from "./slider3";
 
 ReactDOM.render(
   <React.StrictMode>
     {/*<App />*/}
-    {slider()}
+    <Slider />
   </React.StrictMode>,
   document.getElementById('root')
 );

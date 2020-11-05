@@ -1,3 +1,4 @@
+import React from 'react';
 import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 import addData from "./components/addData";
@@ -11,6 +12,7 @@ import img4 from './assets/4.jpg'
 import img5 from './assets/5.jpg'
 import img6 from './assets/6.jpg'
 // import originNavigator from './components/originalNavigator';
+// import customBullets from './components/customNavigator'
 
 let metadata = {
   "frame_id": "B1CF2B1B-1EB5-4AAD-A8A5-86712E8C1569-2015-02-28-00:00:00.000",
@@ -351,12 +353,77 @@ var data = [
   },
 ]
 
-function slider() {
-  return (
-    <AwesomeSlider>
-      {addData(data)}
-    </AwesomeSlider>
-  )
-}
+export default class Slider extends React.Component{
+  constructor() {
+    super();
+    this.state = { lastPressedKey: null , currentPage: 0};
+    this.totalPage = 0;
+    this.handleChange = this.handleChange.bind(this)
+  }
 
-export default slider;
+  componentDidMount() {
+    window.addEventListener("keyup", this.handleKeyPress);
+    this.totalPage = document.getElementsByClassName('awssld__bullets')[0].childNodes.length;
+  }
+
+  componentDidUpdate(prevProps, prevState, snapshot) {
+    const cp = document.getElementsByClassName('awssld__bullets--active')[0]
+    if (cp.innerHTML!==this.state.currentPage){
+      this.setState({
+        currentPage: cp.innerHTML
+      })
+      console.log(cp.innerHTML)
+    }
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener("keyup", this.handleKeyPress);
+    window.removeEventListener("click", this.handleClick);
+  }
+
+  handleKeyPress = event => {
+    this.setState({ lastPressedKey: event.key });
+    if (event.key==='ArrowRight'){
+      this.goNext()
+    } else if (event.key==='ArrowLeft') {
+      this.goPrev()
+    }
+  }
+  goNext() {
+    const nextBtn = document.getElementsByClassName("awssld__next")[0]
+    nextBtn.click()
+  }
+  goPrev() {
+    const prevBtn = document.getElementsByClassName("awssld__prev")[0]
+    prevBtn.click()
+  }
+  getCurrentPage = () => {
+    const cp = document.getElementsByClassName('awssld__bullets--active')[0]
+    this.setState({
+      currentPage: cp.innerHTML
+    })
+  }
+  handleChange (e) {
+    this.setState({
+      currentPage: e.target.value
+    })
+  }
+  render(){
+    var as = (
+      <AwesomeSlider>
+        {/*<AwesomeSlider customContent={customBullets}>*/}
+        {addData(data)}
+      </AwesomeSlider>
+    )
+    return (
+      <div>
+        {as}
+        <div>
+          <div onClick={this.goPrev}>←</div>
+          <input value={this.state.currentPage} onChange={this.handleChange}/>
+          <div onClick={this.goNext}>→</div>
+        </div>
+      </div>
+    )
+  }
+}
