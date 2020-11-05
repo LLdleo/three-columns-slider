@@ -3,6 +3,8 @@ An implementation of three-column slider using React
 ## Dependencies
 `react-awesome-slider`  
 `react-json-view`
+`echarts`
+`echarts-for-react`
 ## Content
 There are three columns in this slider.  
 ### Metadata
