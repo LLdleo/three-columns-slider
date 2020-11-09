@@ -3,6 +3,8 @@ import AwesomeSlider from 'react-awesome-slider';
 import 'react-awesome-slider/dist/styles.css';
 import addData from "./addData";
 import '../style/slider.css'
+// import {efData} from '../assets/data'
+import {formatData} from '../assets/readData'
 // import origin from './components/customNavigator'
 // import img1 from './assets/halloween.jpg'
 import img1 from '../assets/1.jpg'
@@ -14,6 +16,7 @@ import img6 from '../assets/6.jpg'
 // import originNavigator from './components/originalNavigator';
 // import customBullets from './components/customNavigator'
 
+console.log(formatData)
 let metadata = {
   "frame_id": "B1CF2B1B-1EB5-4AAD-A8A5-86712E8C1569-2015-02-28-00:00:00.000",
   "exp": {
@@ -400,6 +403,8 @@ export default class Slider extends React.Component{
       var newPageBtn = this.getElementByAttr('button', 'data-index', pageInputVal)
       this.setCurrentPage(pageInputVal)
       newPageBtn.click()
+      pageInput.value = null
+      pageInput.setAttribute("placeholder", pageInputVal)
     }
   }
   getElementByAttr(tag,attr,value) {
@@ -456,6 +461,7 @@ export default class Slider extends React.Component{
         <div className="navRow">
           <div className="navArrow" onClick={this.goPrev}>←</div>
           <input className="navInput" id="pageInput" type="number" min={0} max={this.state.totalPage-1} placeholder={this.state.currentPage} onChange={this.handleChange}/>
+          <div className="totalPage"> /{this.state.totalPage}</div>
           <div className="navArrow" onClick={this.goNext}>→</div>
         </div>
       </div>

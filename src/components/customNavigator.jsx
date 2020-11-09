@@ -1,7 +1,4 @@
-import React from 'react';
-import PropTypes from 'prop-types';
 import Bullets from "react-awesome-slider/src/core/bullets";
-import { getClassName } from 'react-awesome-slider/src/helpers/components';
 
 export default class customBullets extends Bullets {
 }

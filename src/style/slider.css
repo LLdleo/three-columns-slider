@@ -20,7 +20,7 @@ body {
 
 .awssld.awssld--organic-arrows{
     width: 100%;
-    height: calc(100% - 80px);
+    height: calc(100% - 60px);
 }
 .awssld__bullets button{
     padding: 0 8px !important;
@@ -89,7 +89,7 @@ body {
     background-color: white;
     justify-content: center;
     align-items: center;
-    height: 80px;
+    height: 60px;
     z-index: 100000;
     width: 100%;
 }
@@ -105,6 +105,20 @@ body {
     height: 30px;
     font-size: 20px;
     line-height: 30px;
-    width: 80px;
+    width: 60px;
     text-align: center;
+    padding: 0;
+}
+input[type=number] {
+    -moz-appearance:textfield;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.totalPage {
+    margin-left: 5px;
+    font-size: 20px;
+    line-height: 30px;
 }
