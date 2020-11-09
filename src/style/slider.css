@@ -20,7 +20,7 @@ body {
 
 .awssld.awssld--organic-arrows{
     width: 100%;
-    height: calc(100% - 60px);
+    height: calc(100% - 50px);
 }
 .awssld__bullets button{
     padding: 0 8px !important;
@@ -89,7 +89,7 @@ body {
     background-color: white;
     justify-content: center;
     align-items: center;
-    height: 60px;
+    height: 50px;
     z-index: 100000;
     width: 100%;
 }

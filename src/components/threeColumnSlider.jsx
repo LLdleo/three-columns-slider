@@ -391,11 +391,21 @@ export default class Slider extends React.Component{
       this.setCurrentPage(this.getCurrentPage())
       this.goPrev()
     }
+    else {
+      // just set current page number to prevent any possible error
+      this.setCurrentPage(this.getCurrentPage())
+    }
   }
   handleInput = event => {
     if (event.key==='Enter') {
       var pageInput = document.getElementById('pageInput')
-      var pageInputVal = pageInput.value
+      var pageInputVal
+      if (!pageInput.value) {
+        pageInputVal = parseInt(pageInput.getAttribute("placeholder"))-1
+      }
+      else {
+        pageInputVal = parseInt(pageInput.value) - 1
+      }
       if (pageInputVal >= this.state.totalPage) {
         pageInputVal = this.state.totalPage - 1
         pageInput.value = pageInputVal
@@ -404,7 +414,8 @@ export default class Slider extends React.Component{
       this.setCurrentPage(pageInputVal)
       newPageBtn.click()
       pageInput.value = null
-      pageInput.setAttribute("placeholder", pageInputVal)
+
+      pageInput.setAttribute("placeholder", (pageInputVal+1))
     }
   }
   getElementByAttr(tag,attr,value) {
@@ -442,11 +453,10 @@ export default class Slider extends React.Component{
     })
   }
   handleChange = event => {
-    console.log(event)
     this.setState({
       currentPage: event.target.value
     })
-    console.log(this.state.currentPage)
+    console.log(this.state.currentPage+1)
   }
   render(){
     var as = (
@@ -460,8 +470,8 @@ export default class Slider extends React.Component{
         {as}
         <div className="navRow">
           <div className="navArrow" onClick={this.goPrev}>←</div>
-          <input className="navInput" id="pageInput" type="number" min={0} max={this.state.totalPage-1} placeholder={this.state.currentPage} onChange={this.handleChange}/>
-          <div className="totalPage"> /{this.state.totalPage}</div>
+          <input className="navInput" id="pageInput" type="number" min={1} max={this.state.totalPage} placeholder={(this.state.currentPage+1)} onChange={this.handleChange}/>
+          <div className="totalPage">/{this.state.totalPage}</div>
           <div className="navArrow" onClick={this.goNext}>→</div>
         </div>
       </div>
