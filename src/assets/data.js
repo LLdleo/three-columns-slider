@@ -25,7 +25,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%20Fe-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%20Fe-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -86,7 +86,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%20Fe-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%20Fe-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 4,
@@ -147,7 +147,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%20Fe-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%20Fe-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -208,7 +208,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-R%20Fe-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-R%20Fe-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -269,7 +269,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-R%20Fe-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-R%20Fe-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -330,7 +330,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-R%20Fe-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-R%20Fe-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -391,7 +391,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -452,7 +452,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -513,7 +513,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -574,7 +574,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -635,7 +635,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -696,7 +696,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -757,7 +757,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -818,7 +818,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -879,7 +879,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -940,7 +940,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -1001,7 +1001,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -1062,7 +1062,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -1123,7 +1123,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-4%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-4%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -1184,7 +1184,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-5%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-5%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -1245,7 +1245,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -1306,7 +1306,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -1367,7 +1367,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -1428,7 +1428,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-4%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-4%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -1489,7 +1489,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-5%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-5%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -1550,7 +1550,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -1611,7 +1611,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -1672,7 +1672,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-5%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-5%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -1733,7 +1733,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-4%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-4%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -1794,7 +1794,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -1855,7 +1855,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -1916,7 +1916,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -1977,7 +1977,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_P-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_P-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -2038,7 +2038,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_M-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_M-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": null,
@@ -2099,7 +2099,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -2160,7 +2160,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -2221,7 +2221,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -2282,7 +2282,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -2343,7 +2343,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -2404,7 +2404,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -2465,7 +2465,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_M-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_M-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -2526,7 +2526,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_H-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_H-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": null,
@@ -2587,7 +2587,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 1,
@@ -2648,7 +2648,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 0,
@@ -2709,7 +2709,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 1,
@@ -2770,7 +2770,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-4%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-4%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 4,
@@ -2831,7 +2831,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-5%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-5%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -2892,7 +2892,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_P-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_P-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -2953,7 +2953,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3014,7 +3014,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3075,7 +3075,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3136,7 +3136,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-5%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-5%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3197,7 +3197,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-4%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-4%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3258,7 +3258,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3319,7 +3319,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3380,7 +3380,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3441,7 +3441,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3502,7 +3502,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3563,7 +3563,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3624,7 +3624,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -3685,7 +3685,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_H-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_H-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -3746,7 +3746,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-3%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-3%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -3807,7 +3807,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-2%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-2%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -3868,7 +3868,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -3929,7 +3929,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part-1%20(2018%2C%208-28).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part-1%20(2018%2C%208-28).jpg",
     "comment": null,
     "exp_time": "2018-08-28T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -3990,7 +3990,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -4051,7 +4051,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -4112,7 +4112,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -4173,7 +4173,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP%2023377N-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP%2023377N-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -4234,7 +4234,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP%2023377N-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP%2023377N-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -4295,7 +4295,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -4356,7 +4356,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -4417,7 +4417,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -4478,7 +4478,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-5%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-5%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -4539,7 +4539,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-4%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-4%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -4600,7 +4600,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -4661,7 +4661,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -4722,7 +4722,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -4783,7 +4783,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -4844,7 +4844,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -4905,7 +4905,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -4966,7 +4966,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP_C-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP_C-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5027,7 +5027,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP_C-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP_C-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5088,7 +5088,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5149,7 +5149,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -5210,7 +5210,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -5271,7 +5271,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5332,7 +5332,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -5393,7 +5393,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5454,7 +5454,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377N-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377N-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -5515,7 +5515,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377N-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377N-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -5576,7 +5576,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377N-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377N-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -5637,7 +5637,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328C-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328C-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5698,7 +5698,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328C-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328C-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5759,7 +5759,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328C-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328C-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5820,7 +5820,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5881,7 +5881,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -5942,7 +5942,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -6003,7 +6003,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6064,7 +6064,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6125,7 +6125,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -6186,7 +6186,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_9568-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_9568-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6247,7 +6247,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_9568-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_9568-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6308,7 +6308,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_9568-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_9568-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6369,7 +6369,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N-8669-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N-8669-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6430,7 +6430,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N-8669-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N-8669-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6491,7 +6491,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N-8669-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N-8669-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6552,7 +6552,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6613,7 +6613,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6674,7 +6674,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -6735,7 +6735,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Fe-5%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Fe-5%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -6796,7 +6796,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Fe-4%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Fe-4%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -6857,7 +6857,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Fe-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Fe-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -6918,7 +6918,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Fe-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Fe-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -6979,7 +6979,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Fe-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Fe-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -7040,7 +7040,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part-5%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part-5%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": null,
@@ -7101,7 +7101,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part-4%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part-4%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": null,
@@ -7162,7 +7162,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": null,
@@ -7223,7 +7223,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": null,
@@ -7284,7 +7284,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": null,
@@ -7345,7 +7345,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328N-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328N-3%20(2018%2C%208-29).jpg",
     "comment": "Not good ",
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 2,
@@ -7406,7 +7406,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328N-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328N-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -7467,7 +7467,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328N-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328N-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -7528,7 +7528,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_5751-3%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_5751-3%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -7589,7 +7589,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_5751-2%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_5751-2%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -7650,7 +7650,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_5751-1%20(2018%2C%208-29).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_5751-1%20(2018%2C%208-29).jpg",
     "comment": null,
     "exp_time": "2018-08-29T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -7711,7 +7711,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -7772,7 +7772,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -7833,7 +7833,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -7894,7 +7894,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%20Fe-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%20Fe-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -7955,7 +7955,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%20Fe-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%20Fe-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 3,
@@ -8016,7 +8016,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%20Fe-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%20Fe-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 4,
@@ -8077,7 +8077,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP%2023377N-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP%2023377N-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -8138,7 +8138,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP%2023377N-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP%2023377N-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -8199,7 +8199,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-R%20Fe-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-R%20Fe-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 4,
@@ -8260,7 +8260,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-R%20Fe-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-R%20Fe-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -8321,7 +8321,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-R%20Fe-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-R%20Fe-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 4,
@@ -8382,7 +8382,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -8443,7 +8443,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -8504,7 +8504,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -8565,7 +8565,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -8626,7 +8626,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -8687,7 +8687,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -8748,7 +8748,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -8809,7 +8809,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -8870,7 +8870,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -8931,7 +8931,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -8992,7 +8992,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -9053,7 +9053,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -9114,7 +9114,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -9175,7 +9175,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Al-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Al-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -9236,7 +9236,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9297,7 +9297,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9358,7 +9358,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9419,7 +9419,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9480,7 +9480,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9541,7 +9541,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9602,7 +9602,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9663,7 +9663,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9724,7 +9724,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9785,7 +9785,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9846,7 +9846,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -9907,7 +9907,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -9968,7 +9968,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -10029,7 +10029,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -10090,7 +10090,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -10151,7 +10151,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -10212,7 +10212,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -10273,7 +10273,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -10334,7 +10334,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -10395,7 +10395,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 3,
@@ -10456,7 +10456,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -10517,7 +10517,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -10578,7 +10578,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 3,
@@ -10639,7 +10639,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -10700,7 +10700,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_P-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_P-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": null,
@@ -10761,7 +10761,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_M-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_M-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": null,
@@ -10822,7 +10822,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP_C-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP_C-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -10883,7 +10883,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP_C-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP_C-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -10944,7 +10944,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -11005,7 +11005,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -11066,7 +11066,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -11127,7 +11127,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -11188,7 +11188,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -11249,7 +11249,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -11310,7 +11310,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_M-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_M-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": null,
@@ -11371,7 +11371,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -11432,7 +11432,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -11493,7 +11493,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -11554,7 +11554,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_H-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_H-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": null,
@@ -11615,7 +11615,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -11676,7 +11676,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -11737,7 +11737,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -11798,7 +11798,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377N-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377N-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -11859,7 +11859,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377N-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377N-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -11920,7 +11920,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377N-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377N-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -11981,7 +11981,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -12042,7 +12042,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 3,
@@ -12103,7 +12103,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-3%20(2018%2C%2012-11).jpg",
     "comment": "Not good ",
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 0,
@@ -12164,7 +12164,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 0,
@@ -12225,7 +12225,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TC-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TC-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 0,
@@ -12286,7 +12286,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_P-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_P-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": null,
@@ -12347,7 +12347,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328C-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328C-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -12408,7 +12408,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328C-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328C-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -12469,7 +12469,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328C-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328C-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -12530,7 +12530,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -12591,7 +12591,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -12652,7 +12652,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -12713,7 +12713,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -12774,7 +12774,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -12835,7 +12835,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -12896,7 +12896,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -12957,7 +12957,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -13018,7 +13018,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -13079,7 +13079,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -13140,7 +13140,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -13201,7 +13201,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13262,7 +13262,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13323,7 +13323,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": null,
@@ -13384,7 +13384,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13445,7 +13445,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13506,7 +13506,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13567,7 +13567,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13628,7 +13628,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13689,7 +13689,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13750,7 +13750,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13811,7 +13811,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -13872,7 +13872,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13933,7 +13933,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -13994,7 +13994,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_9568-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_9568-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -14055,7 +14055,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_9568-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_9568-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -14116,7 +14116,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_9568-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_9568-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -14177,7 +14177,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -14238,7 +14238,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -14299,7 +14299,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -14360,7 +14360,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N-8669-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N-8669-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -14421,7 +14421,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N-8669-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N-8669-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -14482,7 +14482,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N-8669-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N-8669-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -14543,7 +14543,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -14604,7 +14604,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -14665,7 +14665,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -14726,7 +14726,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_H-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_H-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": null,
@@ -14787,7 +14787,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -14848,7 +14848,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -14909,7 +14909,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -14970,7 +14970,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Fe-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Fe-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -15031,7 +15031,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Fe-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Fe-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 4,
@@ -15092,7 +15092,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Fe-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Fe-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -15153,7 +15153,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hent_CFWP_Fe-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hent_CFWP_Fe-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -15214,7 +15214,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -15275,7 +15275,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -15336,7 +15336,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -15397,7 +15397,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -15458,7 +15458,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -15519,7 +15519,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": null,
@@ -15580,7 +15580,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328N-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328N-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 1,
@@ -15641,7 +15641,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328N-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328N-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -15702,7 +15702,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_5751-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_5751-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -15763,7 +15763,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_5751-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_5751-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -15824,7 +15824,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_5751-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_5751-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -15885,7 +15885,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-5%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-5%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -15946,7 +15946,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-4%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-4%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -16007,7 +16007,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-3%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-3%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -16068,7 +16068,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-2%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-2%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -16129,7 +16129,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-1%20(2018%2C%2012-11).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-1%20(2018%2C%2012-11).jpg",
     "comment": null,
     "exp_time": "2018-12-11T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -16190,7 +16190,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -16251,7 +16251,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -16312,7 +16312,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -16373,7 +16373,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP%2023377N-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP%2023377N-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -16434,7 +16434,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP%2023377N-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP%2023377N-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -16495,7 +16495,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -16556,7 +16556,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -16617,7 +16617,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -16678,7 +16678,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -16739,7 +16739,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -16800,7 +16800,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -16861,7 +16861,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -16922,7 +16922,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -16983,7 +16983,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -17044,7 +17044,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -17105,7 +17105,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -17166,7 +17166,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -17227,7 +17227,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -17288,7 +17288,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -17349,7 +17349,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -17410,7 +17410,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-5%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-5%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -17471,7 +17471,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-4%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-4%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -17532,7 +17532,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -17593,7 +17593,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -17654,7 +17654,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -17715,7 +17715,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -17776,7 +17776,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 4,
@@ -17837,7 +17837,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -17898,7 +17898,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-4%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-4%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -17959,7 +17959,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP-5%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP-5%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -18020,7 +18020,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -18081,7 +18081,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -18142,7 +18142,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -18203,7 +18203,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-5%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-5%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 4,
@@ -18264,7 +18264,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-4%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-4%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 2,
@@ -18325,7 +18325,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -18386,7 +18386,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -18447,7 +18447,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 3,
@@ -18508,7 +18508,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_P-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_P-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -18569,7 +18569,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_M-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_M-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -18630,7 +18630,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP_C-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP_C-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -18691,7 +18691,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP_C-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP_C-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -18752,7 +18752,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -18813,7 +18813,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -18874,7 +18874,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -18935,7 +18935,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -18996,7 +18996,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -19057,7 +19057,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -19118,7 +19118,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_M-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_M-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -19179,7 +19179,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -19240,7 +19240,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -19301,7 +19301,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -19362,7 +19362,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_H-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_H-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -19423,7 +19423,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -19484,7 +19484,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -19545,7 +19545,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -19606,7 +19606,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377N-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377N-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -19667,7 +19667,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377N-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377N-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -19728,7 +19728,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377N-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377N-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -19789,7 +19789,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_P-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_P-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -19850,7 +19850,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328C-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328C-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -19911,7 +19911,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328C-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328C-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -19972,7 +19972,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328C-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328C-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -20033,7 +20033,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -20094,7 +20094,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -20155,7 +20155,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -20216,7 +20216,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -20277,7 +20277,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -20338,7 +20338,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -20399,7 +20399,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-5%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-5%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -20460,7 +20460,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-4%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-4%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -20521,7 +20521,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -20582,7 +20582,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -20643,7 +20643,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -20704,7 +20704,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -20765,7 +20765,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -20826,7 +20826,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-5%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-5%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -20887,7 +20887,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-4%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-4%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -20948,7 +20948,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -21009,7 +21009,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -21070,7 +21070,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-4%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-4%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -21131,7 +21131,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-5%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-5%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -21192,7 +21192,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -21253,7 +21253,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -21314,7 +21314,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -21375,7 +21375,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -21436,7 +21436,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -21497,7 +21497,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -21558,7 +21558,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -21619,7 +21619,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -21680,7 +21680,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_9568-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_9568-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -21741,7 +21741,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_9568-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_9568-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -21802,7 +21802,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_9568-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_9568-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -21863,7 +21863,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -21924,7 +21924,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -21985,7 +21985,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -22046,7 +22046,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N-8669-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N-8669-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22107,7 +22107,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N-8669-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N-8669-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22168,7 +22168,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N-8669-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N-8669-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22229,7 +22229,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22290,7 +22290,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22351,7 +22351,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22412,7 +22412,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_H-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_H-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -22473,7 +22473,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -22534,7 +22534,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -22595,7 +22595,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -22656,7 +22656,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-5%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-5%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22717,7 +22717,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-4%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-4%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22778,7 +22778,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22839,7 +22839,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22900,7 +22900,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -22961,7 +22961,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": null,
@@ -23022,7 +23022,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328N-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328N-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -23083,7 +23083,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328N-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328N-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -23144,7 +23144,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/15328N-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/15328N-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 2,
@@ -23205,7 +23205,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_5751-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_5751-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23266,7 +23266,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_5751-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_5751-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23327,7 +23327,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/N_5751-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/N_5751-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23388,7 +23388,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-5%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-5%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23449,7 +23449,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-4%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-4%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23510,7 +23510,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-3%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-3%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23571,7 +23571,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-2%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-2%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23632,7 +23632,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-1%20(2019%2C%203-5).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-1%20(2019%2C%203-5).jpg",
     "comment": null,
     "exp_time": "2019-03-05T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23693,7 +23693,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23754,7 +23754,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23815,7 +23815,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/9025A_B%2023377C-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/9025A_B%2023377C-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23876,7 +23876,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/TCP%2023377N-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/TCP%2023377N-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -23937,7 +23937,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -23998,7 +23998,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24059,7 +24059,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -24120,7 +24120,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24181,7 +24181,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24242,7 +24242,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2018255-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2018255-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24303,7 +24303,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -24364,7 +24364,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -24425,7 +24425,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -24486,7 +24486,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24547,7 +24547,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24608,7 +24608,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24669,7 +24669,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24730,7 +24730,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24791,7 +24791,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20E90%20GC101-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20E90%20GC101-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24852,7 +24852,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24913,7 +24913,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -24974,7 +24974,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25035,7 +25035,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-4%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-4%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25096,7 +25096,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-5%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-5%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25157,7 +25157,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -25218,7 +25218,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25279,7 +25279,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25340,7 +25340,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_P-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_P-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25401,7 +25401,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_M-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_M-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25462,7 +25462,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25523,7 +25523,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25584,7 +25584,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25645,7 +25645,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25706,7 +25706,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25767,7 +25767,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_M-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_M-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -25828,7 +25828,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -25889,7 +25889,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -25950,7 +25950,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2000812-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2000812-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26011,7 +26011,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_H-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_H-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26072,7 +26072,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26133,7 +26133,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -26194,7 +26194,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%2068HS%20ZnR-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%2068HS%20ZnR-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26255,7 +26255,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_P-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_P-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26316,7 +26316,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26377,7 +26377,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26438,7 +26438,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26499,7 +26499,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26560,7 +26560,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26621,7 +26621,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/SW%20090%20G17-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/SW%20090%20G17-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -26682,7 +26682,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-5%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-5%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -26743,7 +26743,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-4%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-4%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -26804,7 +26804,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -26865,7 +26865,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -26926,7 +26926,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -26987,7 +26987,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27048,7 +27048,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27109,7 +27109,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-5%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-5%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27170,7 +27170,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-4%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-4%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27231,7 +27231,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -27292,7 +27292,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27353,7 +27353,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-4%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-4%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27414,7 +27414,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-5%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-5%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27475,7 +27475,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27536,7 +27536,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27597,7 +27597,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27658,7 +27658,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27719,7 +27719,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Hentzen%2009443-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Hentzen%2009443-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -27780,7 +27780,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -27841,7 +27841,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27902,7 +27902,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -27963,7 +27963,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28024,7 +28024,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28085,7 +28085,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28146,7 +28146,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/PPG%20670%20ZnR-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/PPG%20670%20ZnR-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28207,7 +28207,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_H-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_H-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28268,7 +28268,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -28329,7 +28329,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -28390,7 +28390,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -28451,7 +28451,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28512,7 +28512,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28573,7 +28573,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28634,7 +28634,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-4%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-4%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28695,7 +28695,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-5%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-5%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28756,7 +28756,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28817,7 +28817,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-5%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-5%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28878,7 +28878,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-4%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-4%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -28939,7 +28939,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-3%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-3%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29000,7 +29000,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-2%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-2%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29061,7 +29061,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-1%20(2019%2C%206-4).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-1%20(2019%2C%206-4).jpg",
     "comment": null,
     "exp_time": "2019-06-04T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29122,7 +29122,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29183,7 +29183,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29244,7 +29244,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 8,
@@ -29305,7 +29305,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -29366,7 +29366,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -29427,7 +29427,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53022%202024-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53022%202024-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -29488,7 +29488,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29549,7 +29549,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29610,7 +29610,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%202024-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%202024-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29671,7 +29671,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-5%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-5%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29732,7 +29732,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29793,7 +29793,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29854,7 +29854,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-4%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-4%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29915,7 +29915,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Flats-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Flats-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -29976,7 +29976,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -30037,7 +30037,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30098,7 +30098,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30159,7 +30159,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_P-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_P-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30220,7 +30220,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_M-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_M-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30281,7 +30281,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30342,7 +30342,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/23377%202024-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/23377%202024-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30403,7 +30403,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30464,7 +30464,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30525,7 +30525,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Cr%207075-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Cr%207075-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30586,7 +30586,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_M-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_M-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30647,7 +30647,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Sm_part_H-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Sm_part_H-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30708,7 +30708,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_P-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_P-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30769,7 +30769,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30830,7 +30830,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30891,7 +30891,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR%207075-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR%207075-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -30952,7 +30952,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -31013,7 +31013,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -31074,7 +31074,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 7,
@@ -31135,7 +31135,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-4%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-4%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -31196,7 +31196,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS-5%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS-5%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 5,
@@ -31257,7 +31257,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -31318,7 +31318,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-4%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-4%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -31379,7 +31379,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-5%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-5%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -31440,7 +31440,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -31501,7 +31501,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -31562,7 +31562,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -31623,7 +31623,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-4%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-4%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -31684,7 +31684,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-5%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-5%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -31745,7 +31745,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -31806,7 +31806,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/CRS_B-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/CRS_B-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -31867,7 +31867,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -31928,7 +31928,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -31989,7 +31989,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL-R%202024-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL-R%202024-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 9,
@@ -32050,7 +32050,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32111,7 +32111,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32172,7 +32172,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/ZR2024-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/ZR2024-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32233,7 +32233,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part_H-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part_H-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32294,7 +32294,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -32355,7 +32355,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -32416,7 +32416,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/53030%20CRS-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/53030%20CRS-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 6,
@@ -32477,7 +32477,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-5%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-5%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32538,7 +32538,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-4%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-4%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32599,7 +32599,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32660,7 +32660,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32721,7 +32721,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/AL_B-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/AL_B-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32782,7 +32782,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Lg_part-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Lg_part-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32843,7 +32843,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-1%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-1%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32904,7 +32904,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-2%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-2%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -32965,7 +32965,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-3%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-3%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -33026,7 +33026,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-4%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-4%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -33087,7 +33087,7 @@ export const efData = [
       "panel": "6\" x 4\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Al-5%20(2019%2C%209-10).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Al-5%20(2019%2C%209-10).jpg",
     "comment": null,
     "exp_time": "2019-09-10T00:00:00Z",
     "manual_rating_scribe": 10,
@@ -33148,7 +33148,7 @@ export const efData = [
       "panel": "4\" x 6\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Exp1-1%20(2020%2C%2010-23).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Exp1-1%20(2020%2C%2010-23).jpg",
     "comment": "Panel1",
     "exp_time": "2020-10-23T19:50:37.489000Z",
     "manual_rating_scribe": 10,
@@ -33209,7 +33209,7 @@ export const efData = [
       "panel": "4\" x 6\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Exp2-1%20(2020%2C%2010-23).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Exp2-1%20(2020%2C%2010-23).jpg",
     "comment": "Panel1",
     "exp_time": "2020-10-23T19:50:37.489000Z",
     "manual_rating_scribe": 10,
@@ -33270,7 +33270,7 @@ export const efData = [
       "panel": "4\" x 6\"",
       "deleted": false
     },
-    "image_link": "http://grantaradial.wpi.edu/datastorage/Exp2-2%20(2020%2C%2010-23).jpg",
+    "image_link": "http://127.0.0.1:8000/datastorage/Exp2-2%20(2020%2C%2010-23).jpg",
     "comment": "Panel2",
     "exp_time": "2020-10-23T20:31:03.141000Z",
     "manual_rating_scribe": 10,

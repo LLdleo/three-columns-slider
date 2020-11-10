@@ -11,7 +11,7 @@ body {
     height: calc(100% - 100px);
 }
 .awssld {
-    --slider-transition-duration: 200ms !important;
+    --slider-transition-duration: 100ms !important;
     --organic-arrow-thickness: 6px;
     --organic-arrow-border-radius: 30px;
     --organic-arrow-height: 20px;
@@ -25,6 +25,9 @@ body {
 .awssld__bullets button{
     padding: 0 8px !important;
     display: none;
+}
+.awssld__prev, .awssld__next {
+    visibility: hidden !important;
 }
 
 .threeColumns {
@@ -121,4 +124,9 @@ input[type=number]::-webkit-outer-spin-button {
     margin-left: 5px;
     font-size: 20px;
     line-height: 30px;
+}
+.lazyload-wrapper {
+    height: 100%;
+    width: 100%;
+    background-color: black;
 }

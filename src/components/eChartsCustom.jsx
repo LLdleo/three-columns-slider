@@ -12,11 +12,11 @@ import 'echarts/lib/component/legend';
 import 'echarts/lib/component/markPoint';
 import ReactEcharts from 'echarts-for-react';
 
-export default class Line extends React.Component{
-  getOption1 =(expName)=> {
+export default class CustomChart extends React.Component{
+  getOption1 = (plotData)=> {
     return {
       title: {
-        text: 'Scribe Rating Plot of ' + expName,
+        text: 'Scribe Rating Plot of ' + plotData.title,
         x: 'center',
         y: 'top'
       },
@@ -25,7 +25,7 @@ export default class Line extends React.Component{
       },
       xAxis: {
         name: 'date',
-        data: ['2018-08-29', '2018-02-11', '2019-03-05']
+        data: plotData.x
       },
       yAxis: {
         name: 'Scribe Rating',
@@ -34,7 +34,7 @@ export default class Line extends React.Component{
       series: [
         {
           type: 'line',
-          data: [9, 8, 7],
+          data: plotData.scribe,
           lineStyle: {
             normal: {
               width: 3,
@@ -44,7 +44,7 @@ export default class Line extends React.Component{
         },
         {
           type: 'scatter',
-          data: [null, 8, null],
+          data: plotData.scribePoint,
           label: {show: false},
           itemStyle: {
             color: "#82664a"
@@ -53,10 +53,10 @@ export default class Line extends React.Component{
       ]
     }
   }
-  getOption2 =(expName)=> {
+  getOption2 =(plotData)=> {
     return {
       title: {
-        text: 'Blister Rating Plot of ' + expName,
+        text: 'Blister Rating Plot of ' + plotData.title,
         x: 'center',
         y: 'top'
       },
@@ -65,7 +65,7 @@ export default class Line extends React.Component{
       },
       xAxis: {
         name: 'date',
-        data: ['2018-08-29', '2018-12-11', '2019-03-05']
+        data: plotData.x
       },
       yAxis: {
         name: 'Blister Rating',
@@ -74,7 +74,7 @@ export default class Line extends React.Component{
       series: [
         {
           type: 'line',
-          data: [10, 10, 10],
+          data: plotData.blister,
           lineStyle: {
             normal: {
               width: 3,
@@ -84,7 +84,7 @@ export default class Line extends React.Component{
         },
         {
           type: 'scatter',
-          data: [null, 10, null],
+          data: plotData.blisterPoint,
           label: {show: false},
           itemStyle: {
             color: "#5f7b49"
@@ -98,10 +98,10 @@ export default class Line extends React.Component{
     return(
       <div>
         <div>
-          <ReactEcharts option={this.getOption1(this.props.expName)} style={{height:'300px'}}/>
+          <ReactEcharts option={this.getOption1(this.props.plotData)} style={{height:'300px'}}/>
         </div>
         <div>
-          <ReactEcharts option={this.getOption2(this.props.expName)} style={{height:'300px'}}/>
+          <ReactEcharts option={this.getOption2(this.props.plotData)} style={{height:'300px'}}/>
         </div>
       </div>
 
