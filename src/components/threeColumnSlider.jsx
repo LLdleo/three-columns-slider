@@ -60,8 +60,10 @@ export default class Slider extends React.Component{
       this.goPrev()
     }
     else {
-      // just set current page number to prevent any possible error
-      this.setCurrentPage(this.getCurrentPage())
+      if (event.key!=='Enter'){
+        // just set current page number to prevent any possible error
+        this.setCurrentPage(this.getCurrentPage())
+      }
     }
   }
   handleInput = event => {
